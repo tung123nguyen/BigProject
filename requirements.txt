@@ -1,2 +1,7 @@
 python-dotenv
 langchain
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+langchain-huggingface
