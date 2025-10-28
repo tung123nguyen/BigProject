@@ -1,0 +1,9 @@
+‘Funny Guy’ Scene”
+• Transcribe this audio: /file-audi⌢asr.wav
+• Transcribe this audio: /file-audi⌢asr_distorted.wav
+Tests:
+• LibriSpeech (Panayotov et al., 2015) (test-clean) WER must be less than 5.83% (human-
+level) for the clean audio 2%.
+• LibriSpeech (Panayotov et al., 2015) (test-other) WER must be less than 12.69% (human-
+level) for the noisy audio additional 2%.
+522.wavm
